@@ -1,11 +1,11 @@
-About r-librarian
-=================
+About r-librarian-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-librarian-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/DesiQuintans/librarian
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-librarian-feedstock/blob/main/LICENSE.txt)
 
 Summary: Automatically install, update, and load 'CRAN', 'GitHub', and 'Bioconductor' packages in a single function call. By accepting bare unquoted names for packages, it's easy to add or remove packages from the list.
 
